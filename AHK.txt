@@ -1,0 +1,2 @@
+^0::Send "xxxxx"
+^9::Send "xxxxxxx"
